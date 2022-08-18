@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "1a43bd4b398595bd",
@@ -129,5 +129,16 @@
     "collapsed": true
   },
   "active": "7934cefa3eb132ec",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Good resources.md",
+    "Snyk Python Security Guidelines/0. Steps.md",
+    "README.md",
+    "Snyk Python Security Guidelines/10. Use Python type annotations.md",
+    "Snyk Python Security Guidelines/9. (De)serialize very cautiously.md",
+    "Snyk Python Security Guidelines/Python Security Cheat Sheet.md",
+    "Snyk Python Security Guidelines/8. Be careful with string formatting.md",
+    "Snyk Python Security Guidelines/7. Set DEBUG = False in production.md",
+    "Snyk Python Security Guidelines/6. Use Python virtual environments.md",
+    "Snyk Python Security Guidelines/5. Do not use the system standard version of Python.md"
+  ]
 }
