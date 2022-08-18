@@ -1,4 +1,3 @@
 - Why python and other dynamic languages work in the enterprise word. [link](https://www.fullstackpython.com/enterprise-python.html)
 - Mozilla's Enterprise InfoSec: General best practices from Kubernetes to Phishing. [link](https://infosec.mozilla.org/)
-- 
-- 
+- How-To secure basics. [link](https://medium.com/analytics-vidhya/5-simple-tips-for-more-secure-python-8f116bbe4e5)
