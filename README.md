@@ -14,11 +14,9 @@ Developers install packages from anaconda channels and from [pypi.org](http://py
 
 -----
 
-## [Snyk Python Security Guidelines](/Snyk-Python-Security-Guidelines/0-Steps) Step by Step:
+## Snyk Python Security Guidelines [Step by Step](/Snyk-Python-Security-Guidelines/0-Steps):
 
 This guide is from [snyk.io](https://snyk.io/blog/python-security-best-practices-cheat-sheet/). They develop an in-code vulnerability fixer and python package advisor.
-
-![[attachements/Pasted image 20220818160520.png]]
 
 -----
 

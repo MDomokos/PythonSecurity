@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -130,9 +130,9 @@
   },
   "active": "040411091ac51198",
   "lastOpenFiles": [
-    "Snyk-Python-Security-Guidelines/Python Security Cheat Sheet.md",
     "Snyk-Python-Security-Guidelines/0-Steps.md",
     "README.md",
+    "Snyk-Python-Security-Guidelines/Python Security Cheat Sheet.md",
     "Good resources.md",
     "Snyk-Python-Security-Guidelines/0-Step.md",
     "Snyk-Python-Security-Guidelines/9-(De)serialize very cautiously.md",
