@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Good resources.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Good resources.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Good resources.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Good resources.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "a641d8976533f6e3",
   "lastOpenFiles": [
-    "Good resources.md",
-    "README.md",
-    "2022-08-18.md",
     "Snyk Python Security Guidelines/0. Steps.md",
-    "Snyk Python Security Guidelines/10. Use Python type annotations.md",
-    "Snyk Python Security Guidelines/9. (De)serialize very cautiously.md",
+    "README.md",
+    "Good resources.md",
     "Snyk Python Security Guidelines/Python Security Cheat Sheet.md",
-    "Snyk Python Security Guidelines/8. Be careful with string formatting.md",
     "Snyk Python Security Guidelines/7. Set DEBUG = False in production.md",
-    "Snyk Python Security Guidelines/6. Use Python virtual environments.md"
+    "Snyk Python Security Guidelines/4. Review your dependency licenses.md",
+    "Snyk Python Security Guidelines/2. Scan your code.md",
+    "2022-08-18.md",
+    "Snyk Python Security Guidelines/10. Use Python type annotations.md",
+    "Snyk Python Security Guidelines/9. (De)serialize very cautiously.md"
   ]
 }

@@ -16,3 +16,8 @@ Developers install packages from anaconda channels and from [pypi.org](http://py
 - what is the industry recommended way to protect the frim from python related vulnerabilities?
 
 - what processes should be put in place to mitigate security risks.
+
+
+
+
+[[Snyk Python Security Guidelines/0. Steps]]
